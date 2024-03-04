@@ -24,7 +24,7 @@
 
 # Descripción
 En este documento vamos a ver varios ejercicios sobre los distintos metodos como lo son:
-1.-Biseccion
-2.-Falsa posición
-3.-De la secante
-4.-Newton
+  <li>1.-Biseccion</li>
+  <li>2.-Falsa posición</li>
+  <li>3.-De la secante</li>
+  <li>4.-Newton</li>
