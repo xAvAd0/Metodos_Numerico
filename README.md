@@ -21,3 +21,10 @@
                     </ul>
                 </nav>
             </font> </header>
+
+# Descripción
+En este documento vamos a ver varios ejercicios sobre los distintos metodos como lo son:
+1.-Biseccion
+2.-Falsa posición
+3.-De la secante
+4.-Newton
