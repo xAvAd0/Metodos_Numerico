@@ -1,5 +1,4 @@
 # Metodos_Numericos
-# Indice
 <h2 align = "center"> <font color = "darkorange" size = "+6"  font face = "bauhaus 93">  INDICE </font> </h2>
 <header> <font color = "red" size="+1" font face = "aharoni">
                 <nav class="navegacion">
@@ -28,3 +27,7 @@ En este documento vamos a ver varios ejercicios sobre los distintos metodos como
   <li>2.-Falsa posición</li>
   <li>3.-De la secante</li>
   <li>4.-Newton</li>
+  
+# Sobre la materia 
+<h2 align = "center"> <font color = "darkorange" size = "+6"  font face = "bauhaus 93"> Competencia de la asignatura</font> </h2>
+<li>Aplica los métodos numéricos para resolver problemas científicos y de ingeniería utilizando la computadora</li>
