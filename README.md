@@ -1,4 +1,9 @@
 # Metodos_Numericos
+Realizado por:
+Diego Alonso Fernández Delagadillo
+Jose Antonio Guerrero Lazcano
+Miguel Angel Flores Lopez
+Xavier Valle Dorantes
 <h2 align = "center"> <font color = "darkorange" size = "+6"  font face = "bauhaus 93">  INDICE </font> </h2>
 <header> <font color = "red" size="+1" font face = "aharoni">
                 <nav class="navegacion">
